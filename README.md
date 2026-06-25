@@ -29,6 +29,6 @@ Ensure you have Python 3.10+ installed locally.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fc-durability-estimator.git
-   cd fc-durability-estimator
+   git clone https://github.com/Guiga1993/MVP_Canvas.git
+   cd MVP_Canvas
    ```
