@@ -2,7 +2,7 @@
 
 An engineering workbench designed to accelerate fuel cell stack health diagnostics. This tool allows validation and calibration engineers to transform raw vehicle CAN bus telemetry logs into immediate, actionable health indicators—specifically **State of Health (SOH%)** and **Remaining Useful Life (RUL)** hours—drastically reducing data processing loops from days to under 120 seconds.
 
-![Dashboard Preview]
+Dashboard Preview
 
 ## 🚀 Core Features (Wave 1 MVP)
 
@@ -30,4 +30,3 @@ Ensure you have Python 3.10+ installed locally.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Guiga1993/MVP_Canvas.git
-   cd fc-durability-estimator
